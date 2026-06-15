@@ -59,6 +59,14 @@
 
 ---
 
+## 🔭 Сейчас работаю над
+
+Цикл pet-проектов по **кибербезопасности и ML** — собираю инструменты с нуля:
+система обнаружения сетевых вторжений (**[NIDS](https://github.com/tema64378/nids)**),
+дальше — больше. Параллельно прокачиваю Fullstack-сторону (Node.js, API, БД).
+
+---
+
 ## 🛠️ Технологии
 
 #### Frontend
@@ -123,6 +131,8 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tema64378&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tema64378&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=tema64378&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
