@@ -21,7 +21,9 @@
 </p>
 
 <p>
+  <a href="https://t.me/ykvlev_a"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:tema643789@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://vk.com/ykvlev_a"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
   <a href="https://github.com/tema64378"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-475569?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=tema64378&style=for-the-badge&color=8b5cf6&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B" />
@@ -153,6 +155,14 @@
 
 ---
 
+## 📫 Связаться
+
 <div align="center">
-  <i>Открыт к интересным задачам и стажировкам 🚀</i>
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40ykvlev__a-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ykvlev_a)
+[![VK](https://img.shields.io/badge/VK-ykvlev__a-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ykvlev_a)
+[![Email](https://img.shields.io/badge/Email-tema643789-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tema643789@gmail.com)
+
+<i>Открыт к интересным задачам и стажировкам 🚀</i>
+
 </div>
