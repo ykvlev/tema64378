@@ -106,6 +106,7 @@
 |--------|----------|------|
 | **[NIDS](https://github.com/tema64378/nids)** | Система обнаружения сетевых вторжений на ML: захват трафика → признаки потоков → RandomForest на CICIDS-2017 → API, живой дашборд и Telegram-алерты | `Python` `scikit-learn` `scapy` `FastAPI` `Streamlit` |
 | **[Web Security Scanner](https://github.com/tema64378/websec-scanner)** | Пассивный аудит веб-безопасности: заголовки, TLS, cookies, CORS, утечки версий → оценка A–F с объяснением простым языком, HTML-отчёт | `Python` `requests` `rich` `FastAPI` |
+| **[RU Compliance Scanner](https://github.com/tema64378/ru-compliance-scanner)** | Проверка сайта на требования РФ (152-ФЗ): политика, согласия, cookie, HTTPS → что не так, как исправить и какой штраф грозит (КоАП ст.13.11) | `Python` `BeautifulSoup` `rich` `FastAPI` |
 
 ### 🌐 Fullstack / Web
 
