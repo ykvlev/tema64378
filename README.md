@@ -171,6 +171,28 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tema64378&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tema64378&theme=react-dark&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="График активности" width="98%" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=tema64378&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Трофеи" />
+
+</div>
+
+---
+
+## 🐍 Граф контрибуций
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tema64378/tema64378/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tema64378/tema64378/output/github-snake.svg" />
+  <img alt="Змейка съедает мой граф контрибуций" src="https://raw.githubusercontent.com/tema64378/tema64378/output/github-snake.svg" width="98%" />
+</picture>
+
 </div>
 
 ---
