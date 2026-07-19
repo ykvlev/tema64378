@@ -183,6 +183,20 @@
 
 ---
 
+## 🐍 Граф контрибуций
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ykvlev/ykvlev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ykvlev/ykvlev/output/github-snake.svg" />
+  <img alt="Змейка съедает мой граф контрибуций" src="https://raw.githubusercontent.com/ykvlev/ykvlev/output/github-snake.svg" width="98%" />
+</picture>
+
+</div>
+
+---
+
 ## 🎓 Образование
 
 **Новгородский государственный университет им. Ярослава Мудрого** — Великий Новгород
