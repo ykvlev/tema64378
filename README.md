@@ -1,5 +1,5 @@
 <!--
-  Это профильный README (репозиторий tema64378 = ник → показывается на главной профиля).
+  Это профильный README (репозиторий ykvlev = ник → показывается на главной профиля).
   Редактируй смело: живые демо-ссылки и проекты собраны вручную, банер — assets/banner.png
 -->
 
@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=tema64378&style=flat-square&color=3B82F6&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F" />
+  <img src="https://komarev.com/ghpvc/?username=ykvlev&style=flat-square&color=3B82F6&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F" />
 </p>
 
 </div>
@@ -51,7 +51,7 @@
 
 `TypeScript` · `React`
 
-[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://code-nov-su.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/tema64378/CodeNovSU)
+[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://code-nov-su.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/ykvlev/CodeNovSU)
 
 </td>
 <td width="50%" valign="top">
@@ -61,7 +61,7 @@
 
 `Rust` · `React` · `MySQL`
 
-[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://field-mind-rho.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/tema64378/FieldMind)
+[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://field-mind-rho.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/ykvlev/FieldMind)
 
 </td>
 </tr>
@@ -73,7 +73,7 @@
 
 `React` · `TypeScript` · `Tailwind`
 
-[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://taskflow-xi-vert.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/tema64378/taskflow)
+[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://taskflow-xi-vert.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/ykvlev/taskflow)
 
 </td>
 <td width="50%" valign="top">
@@ -83,7 +83,7 @@
 
 `Next.js` · `React` · `TypeScript`
 
-[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://site-trud-krut.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/tema64378/Site_trud_krut)
+[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://site-trud-krut.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/ykvlev/Site_trud_krut)
 
 </td>
 </tr>
@@ -130,27 +130,27 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| **[NIDS](https://github.com/tema64378/nids)** | Обнаружение сетевых вторжений на ML: трафик → признаки потоков → RandomForest на CICIDS-2017 → API, живой дашборд и Telegram-алерты | `Python` `scikit-learn` `scapy` `FastAPI` |
-| **[websec-scanner](https://github.com/tema64378/websec-scanner)** | Пассивный аудит веб-безопасности: заголовки, TLS, cookies, CORS, утечки версий → оценка A–F с объяснением | `Python` `rich` `FastAPI` |
-| **[ru-compliance-scanner](https://github.com/tema64378/ru-compliance-scanner)** | Проверка сайта на 152-ФЗ: политика, согласия, cookie, HTTPS → что не так, как исправить и какой штраф грозит | `Python` `BeautifulSoup` `FastAPI` |
+| **[NIDS](https://github.com/ykvlev/nids)** | Обнаружение сетевых вторжений на ML: трафик → признаки потоков → RandomForest на CICIDS-2017 → API, живой дашборд и Telegram-алерты | `Python` `scikit-learn` `scapy` `FastAPI` |
+| **[websec-scanner](https://github.com/ykvlev/websec-scanner)** | Пассивный аудит веб-безопасности: заголовки, TLS, cookies, CORS, утечки версий → оценка A–F с объяснением | `Python` `rich` `FastAPI` |
+| **[ru-compliance-scanner](https://github.com/ykvlev/ru-compliance-scanner)** | Проверка сайта на 152-ФЗ: политика, согласия, cookie, HTTPS → что не так, как исправить и какой штраф грозит | `Python` `BeautifulSoup` `FastAPI` |
 
 ### 🌐 Fullstack / Web
 
 | Проект | Описание | Ссылки |
 |--------|----------|--------|
-| **CodeNovSU** | Платформа обучения программированию с AI-ассистентом | [demo](https://code-nov-su.vercel.app) · [code](https://github.com/tema64378/CodeNovSU) |
-| **FieldMind** | CRM спорткомплекса, Rust-бэкенд | [demo](https://field-mind-rho.vercel.app) · [code](https://github.com/tema64378/FieldMind) |
-| **трудкрут.com** | Промо-сайт движения РСО на Next.js | [demo](https://site-trud-krut.vercel.app) · [code](https://github.com/tema64378/Site_trud_krut) |
-| **media_rso** | Платформа медиаконкурса РСО, бэкенд на Rust (Axum) | [code](https://github.com/tema64378/media_rso) |
-| **uchi_ru** | «Дракоша» — обучающая веб-игра для детей 6–11 с AI-проверкой | [code](https://github.com/tema64378/uchi_ru) |
+| **CodeNovSU** | Платформа обучения программированию с AI-ассистентом | [demo](https://code-nov-su.vercel.app) · [code](https://github.com/ykvlev/CodeNovSU) |
+| **FieldMind** | CRM спорткомплекса, Rust-бэкенд | [demo](https://field-mind-rho.vercel.app) · [code](https://github.com/ykvlev/FieldMind) |
+| **трудкрут.com** | Промо-сайт движения РСО на Next.js | [demo](https://site-trud-krut.vercel.app) · [code](https://github.com/ykvlev/Site_trud_krut) |
+| **media_rso** | Платформа медиаконкурса РСО, бэкенд на Rust (Axum) | [code](https://github.com/ykvlev/media_rso) |
+| **uchi_ru** | «Дракоша» — обучающая веб-игра для детей 6–11 с AI-проверкой | [code](https://github.com/ykvlev/uchi_ru) |
 
 ### 🎨 Frontend / Pet
 
 | Проект | Описание | Ссылки |
 |--------|----------|--------|
-| **TaskFlow** | Канбан-доска с drag & drop, приоритетами и тёмной темой | [demo](https://taskflow-xi-vert.vercel.app) · [code](https://github.com/tema64378/taskflow) |
-| **chess** | Промо-лендинг шахматного клуба на чистом HTML/CSS/JS | [code](https://github.com/tema64378/chess) |
-| **todo-bot** | Telegram-менеджер задач: дедлайны, повторы, напоминания, экспорт CSV | [code](https://github.com/tema64378/todo-bot) |
+| **TaskFlow** | Канбан-доска с drag & drop, приоритетами и тёмной темой | [demo](https://taskflow-xi-vert.vercel.app) · [code](https://github.com/ykvlev/taskflow) |
+| **chess** | Промо-лендинг шахматного клуба на чистом HTML/CSS/JS | [code](https://github.com/ykvlev/chess) |
+| **todo-bot** | Telegram-менеджер задач: дедлайны, повторы, напоминания, экспорт CSV | [code](https://github.com/ykvlev/todo-bot) |
 
 ---
 
@@ -164,20 +164,20 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tema64378&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=3B82F6&title_color=3B82F6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tema64378&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3B82F6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ykvlev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=3B82F6&title_color=3B82F6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykvlev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3B82F6" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tema64378&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ykvlev&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tema64378&theme=react-dark&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="График активности" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ykvlev&theme=react-dark&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="График активности" width="98%" />
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=tema64378&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Трофеи" />
+<img src="https://github-profile-trophy.vercel.app/?username=ykvlev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Трофеи" />
 
 </div>
 
