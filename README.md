@@ -1,129 +1,162 @@
 <!--
-  Это профильный README. Чтобы он появился на главной твоего GitHub-профиля:
-  1. Создай новый публичный репозиторий с именем РОВНО как ник: tema64378
-  2. Положи в него этот файл как README.md
-  3. GitHub автоматически покажет его на https://github.com/tema64378
+  Это профильный README (репозиторий tema64378 = ник → показывается на главной профиля).
+  Редактируй смело: живые демо-ссылки и проекты собраны вручную, банер — assets/banner.png
 -->
 
 <div align="center">
 
 <img src="assets/banner.png" alt="Артём Яковлев — Frontend · Fullstack · ML · Cybersecurity" width="100%" />
 
+<br />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Frontend%20%26%20Fullstack%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js;ML%20%26%20Data%20Science%20%D0%BD%D0%B0%20Python;%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%C2%B7%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=620&lines=Frontend+%26+Fullstack+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;React+%C2%B7+TypeScript+%C2%B7+Node.js;ML+%26+Data+Science+%D0%BD%D0%B0+Python;%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C+%C2%B7+%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D0%B5+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Frontend-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fullstack-8b5cf6?style=flat-square" />
-  <img src="https://img.shields.io/badge/ML%20%2F%20Data%20Science-a855f7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cybersecurity-7c3aed?style=flat-square" />
+  <a href="https://portfolio-topaz-omega-71.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90_%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-2563EB?style=for-the-badge&logoColor=white" alt="Портфолио" /></a>
+  <a href="https://t.me/ykvlev_a"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:tema643789@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://vk.com/ykvlev_a"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
 </p>
 
 <p>
-  <a href="https://t.me/ykvlev_a"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:tema643789@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vk.com/ykvlev_a"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
-  <a href="https://github.com/tema64378"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-475569?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=tema64378&style=for-the-badge&color=8b5cf6&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B" />
+  <img src="https://komarev.com/ghpvc/?username=tema64378&style=flat-square&color=3B82F6&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F" />
 </p>
 
 </div>
 
----
+## 👋 Коротко
 
-## 👋 Обо мне
+Разработчик с фокусом на **Frontend и Fullstack**. Основной стек — **TypeScript, React, Node.js**. Люблю формат, где можно глубоко погружаться в продукт: понимать, **зачем** нужна фича, а не просто закрывать тикеты. Отдельно кайфую от чистого UI, анимаций и внимания к деталям.
 
-Разработчик с фокусом на **Frontend и Fullstack**. Основной стек —
-**TypeScript, React, MobX**, на бэкенде — **Node.js, REST API, MySQL**. Люблю
-формат, где можно глубоко погружаться в продукт: понимать, **зачем** нужна
-фича, а не просто закрывать тикеты.
-
-Параллельно активно развиваюсь в **ML / Data Science** и **кибербезопасности** —
-на Python собираю pet-проекты (см. раздел ниже): от анализа данных до системы
-обнаружения сетевых вторжений.
-
-**Чем занимаюсь:**
-
-| Направление | Стек | Уровень |
-|-------------|------|---------|
-| 💻 **Frontend** | React, TypeScript, MobX, React Native | основной опыт |
-| 🔗 **Fullstack** | Node.js, REST API, MySQL | уверенно |
-| 🤖 **ML / Data Science** | Python, scikit-learn, pandas | развиваюсь, pet-проекты |
-| 🛡️ **Кибербезопасность** | защитные ML-инструменты, NIDS | развиваюсь, pet-проекты |
+Параллельно расту в **ML / Data Science** и **кибербезопасности** — на Python собираю рабочие инструменты с нуля: от аудита веб-безопасности до системы обнаружения сетевых вторжений.
 
 - 🎯 Адаптивные, доступные (a11y) и производительные интерфейсы
-- 🧪 Юнит-тесты, код-ревью, настройка CI/CD-пайплайнов
-- 🤝 Плотно работаю с дизайнерами при внедрении UX/UI-решений
+- 🧪 Юнит-тесты, код-ревью, CI/CD
+- 🤝 Плотно работаю с дизайнерами при внедрении UX/UI
 - 📚 Студент НовГУ им. Ярослава Мудрого — Прикладная математика и информатика
 - 🌍 English — B2
 
 ---
 
-## 🔭 Сейчас работаю над
+## ⭐ Избранные проекты
 
-Цикл pet-проектов по **кибербезопасности и ML** — собираю инструменты с нуля:
-система обнаружения сетевых вторжений (**[NIDS](https://github.com/tema64378/nids)**),
-дальше — больше. Параллельно прокачиваю Fullstack-сторону (Node.js, API, БД).
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 CodeNovSU
+Образовательная платформа: треки C++/Python/JS, ветки по AI и кибербезу, браузерный редактор кода и AI-ассистент с уровнями подсказок.
+
+`TypeScript` · `React`
+
+[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://code-nov-su.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/tema64378/CodeNovSU)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏟️ FieldMind
+Система управления спортивным комплексом: клиенты, расписание, финансы и операционный обзор в одной панели. Резкий ч/б интерфейс + Rust-бэкенд.
+
+`Rust` · `React` · `MySQL`
+
+[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://field-mind-rho.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/tema64378/FieldMind)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ TaskFlow
+Канбан-доска с drag & drop: перетаскивание карточек между колонками, приоритеты и теги, тёмная тема, сохранение в localStorage, клавиатурная доступность.
+
+`React` · `TypeScript` · `Tailwind`
+
+[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://taskflow-xi-vert.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/tema64378/taskflow)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 трудкрут.com
+Промо-сайт студенческих отрядов на Next.js: крупный герой, статистика 400 000+ участников и 85 регионов, тёмная тема и форма вступления.
+
+`Next.js` · `React` · `TypeScript`
+
+[![Demo](https://img.shields.io/badge/%E2%96%B6_Demo-2563EB?style=flat-square)](https://site-trud-krut.vercel.app) [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/tema64378/Site_trud_krut)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Технологии
+## 🧰 Технологии
 
-#### Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Инструменты и бэкенд
+**Бэкенд и инструменты**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-#### Изучаю / pet-проекты
+**ML / Data Science / Security**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-1E293B?style=flat-square)
 
 ---
 
-## 🚀 Проекты
+## 📂 Все проекты
 
 ### 🛡️ Кибербезопасность / ML
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| **[NIDS](https://github.com/tema64378/nids)** | Система обнаружения сетевых вторжений на ML: захват трафика → признаки потоков → RandomForest на CICIDS-2017 → API, живой дашборд и Telegram-алерты | `Python` `scikit-learn` `scapy` `FastAPI` `Streamlit` |
-| **[Web Security Scanner](https://github.com/tema64378/websec-scanner)** | Пассивный аудит веб-безопасности: заголовки, TLS, cookies, CORS, утечки версий → оценка A–F с объяснением простым языком, HTML-отчёт | `Python` `requests` `rich` `FastAPI` |
-| **[RU Compliance Scanner](https://github.com/tema64378/ru-compliance-scanner)** | Проверка сайта на требования РФ (152-ФЗ): политика, согласия, cookie, HTTPS → что не так, как исправить и какой штраф грозит (КоАП ст.13.11) | `Python` `BeautifulSoup` `rich` `FastAPI` |
+| **[NIDS](https://github.com/tema64378/nids)** | Обнаружение сетевых вторжений на ML: трафик → признаки потоков → RandomForest на CICIDS-2017 → API, живой дашборд и Telegram-алерты | `Python` `scikit-learn` `scapy` `FastAPI` |
+| **[websec-scanner](https://github.com/tema64378/websec-scanner)** | Пассивный аудит веб-безопасности: заголовки, TLS, cookies, CORS, утечки версий → оценка A–F с объяснением | `Python` `rich` `FastAPI` |
+| **[ru-compliance-scanner](https://github.com/tema64378/ru-compliance-scanner)** | Проверка сайта на 152-ФЗ: политика, согласия, cookie, HTTPS → что не так, как исправить и какой штраф грозит | `Python` `BeautifulSoup` `FastAPI` |
 
 ### 🌐 Fullstack / Web
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| **[CodeNovSU](https://github.com/tema64378/CodeNovSU)** | Образовательная платформа для обучения программированию: треки C++/Python/JS, отдельные ветки по AI и кибербезу, браузерный редактор кода и AI-ассистент с уровнями подсказок | `TypeScript` `React` `Backend API` |
-| **[uchi_ru](https://github.com/tema64378/uchi_ru)** | «Дракоша — Звёздный питомец» — образовательная веб-игра для детей 6–11 лет с фиджитал-механикой и AI-проверкой выполнения заданий | `TypeScript` `React` `Node.js` `Anthropic API` |
-| **[media_rso](https://github.com/tema64378/media_rso)** | Платформа медиаконкурса РСО (Российские студенческие отряды) | `Rust (Axum)` `React` `Vite` `MySQL` |
-| **[FieldMind](https://github.com/tema64378/FieldMind)** | Система управления спортивным комплексом: запись, расписание, управление данными | `Rust` `JavaScript` `MySQL` |
-| **[Site_trud_krut](https://github.com/tema64378/Site_trud_krut)** | Сайт для РСО на Next.js (App Router) | `Next.js` `React` `TypeScript` |
+| Проект | Описание | Ссылки |
+|--------|----------|--------|
+| **CodeNovSU** | Платформа обучения программированию с AI-ассистентом | [demo](https://code-nov-su.vercel.app) · [code](https://github.com/tema64378/CodeNovSU) |
+| **FieldMind** | CRM спорткомплекса, Rust-бэкенд | [demo](https://field-mind-rho.vercel.app) · [code](https://github.com/tema64378/FieldMind) |
+| **трудкрут.com** | Промо-сайт движения РСО на Next.js | [demo](https://site-trud-krut.vercel.app) · [code](https://github.com/tema64378/Site_trud_krut) |
+| **media_rso** | Платформа медиаконкурса РСО, бэкенд на Rust (Axum) | [code](https://github.com/tema64378/media_rso) |
+| **uchi_ru** | «Дракоша» — обучающая веб-игра для детей 6–11 с AI-проверкой | [code](https://github.com/tema64378/uchi_ru) |
 
-### 🎮 Pet-проекты
+### 🎨 Frontend / Pet
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| **[chess](https://github.com/tema64378/chess)** | Адаптивный промо-лендинг шахматного клуба «Клуб четырёх коней» (по мотивам «12 стульев») на чистом HTML/CSS/JS с анимациями | `JavaScript` `HTML` `CSS` |
-| **[todo-bot](https://github.com/tema64378/todo-bot)** | Telegram-менеджер задач: приоритеты, категории, дедлайны, повторы, напоминания (APScheduler), экспорт в CSV + FastAPI-вебчасть, деплой на Railway | `Python` `FastAPI` |
+| Проект | Описание | Ссылки |
+|--------|----------|--------|
+| **TaskFlow** | Канбан-доска с drag & drop, приоритетами и тёмной темой | [demo](https://taskflow-xi-vert.vercel.app) · [code](https://github.com/tema64378/taskflow) |
+| **chess** | Промо-лендинг шахматного клуба на чистом HTML/CSS/JS | [code](https://github.com/tema64378/chess) |
+| **todo-bot** | Telegram-менеджер задач: дедлайны, повторы, напоминания, экспорт CSV | [code](https://github.com/tema64378/todo-bot) |
+
+---
+
+## 🔭 Сейчас работаю над
+
+Циклом **фронтенд-пет-проектов** — собираю аккуратные, продуманные интерфейсы и складываю их в [портфолио](https://portfolio-topaz-omega-71.vercel.app) (последний — **[TaskFlow](https://taskflow-xi-vert.vercel.app)**). Параллельно — инструменты по **кибербезопасности и ML** на Python.
 
 ---
 
@@ -131,12 +164,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tema64378&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tema64378&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tema64378&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=3B82F6&title_color=3B82F6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tema64378&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3B82F6" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tema64378&theme=tokyonight&hide_border=true" />
+<br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=tema64378&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tema64378&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 
 </div>
 
@@ -147,23 +180,15 @@
 **Новгородский государственный университет им. Ярослава Мудрого** — Великий Новгород
 *Прикладная математика и информатика (09.02.07), выпуск 2028*
 
-<!--
-  Сюда добавляй ТОЛЬКО реальные сертификаты, когда получишь.
-  Быстрые и настоящие варианты, которые стоит пройти:
-    • freeCodeCamp — Responsive Web Design / JavaScript Algorithms / Front End Libraries (бесплатно)
-    • Stepik — курсы по JS/React/Python
-    • TryHackMe — пути по кибербезопасности (есть бесплатные комнаты)
--->
-
 ---
-
-## 📫 Связаться
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40ykvlev__a-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ykvlev_a)
+### 📫 Связаться
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40ykvlev__a-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ykvlev_a)
 [![VK](https://img.shields.io/badge/VK-ykvlev__a-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ykvlev_a)
-[![Email](https://img.shields.io/badge/Email-tema643789-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tema643789@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tema643789-1E293B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tema643789@gmail.com)
 
 <i>Открыт к интересным задачам и стажировкам 🚀</i>
 
